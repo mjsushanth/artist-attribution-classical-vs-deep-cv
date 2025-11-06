@@ -1,7 +1,9 @@
-# Artist-Classification - Project-Paper
+# Artist-Classification
 This repo is for showcasing a project paper from the coursework 'Foundations of AI'.
 
 This project investigates multiple machine learning paradigms for artist classification using the "Best Artworks of All Time" dataset (8,774 images across 50 renowned artists). While comparing traditional approaches like SVMs with SIFT descriptors and deep CNNs (ResNet-50, VGG-16), the primary research contribution centers on extensive Convolutional Autoencoder (CAE) experimentation and advanced unsupervised learning methodologies.
+
+Comparative study of classical computer vision (SIFT+BoVW+SVM) versus deep learning approaches (CNN, CAE, VAE) for artist style attribution on fine-art paintings dataset.
 
 
 ## Research Methodology 
